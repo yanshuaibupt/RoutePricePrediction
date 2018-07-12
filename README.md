@@ -1,1 +1,4 @@
-# RoutePricePrediction
+# 机票价格预测
+项目目标：预测未来两个月内某一天出行在搜索日期一周内的最低价 <br>
+代码内容：通过数据处理、特征工程和建立XGBoost、LSTM模型，预测北京-上海结果MAE=0.06，RMSE=42 <br>
+SQL内容：编写HiveSQL从数据库中获取数据 <br>
